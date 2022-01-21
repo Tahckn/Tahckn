@@ -15,6 +15,7 @@ hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **languages and tools:**
+<code><img height="25" src="https://emrecanayar.files.wordpress.com/2019/07/c_logo_black.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="27" src="https://www.tutorsvalley.com/public/storage/uploads/course/1453979090-java-icon.png"></code>
 <code><img height="27" src="https://www.pngall.com/wp-content/uploads/5/Python-PNG.png"></code>

@@ -4,6 +4,9 @@
 </a>
   <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" />
 </a>
+<p>
+  tahaceken38@gmail.com
+  </p>
 <br>
 
 **languages and tools:**

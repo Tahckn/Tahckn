@@ -5,4 +5,4 @@
 
 **languages and tools:**
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://friconix.com/png/fi-snsuxx-java.png"></code>
+<code><img height="25" src="https://png.pngtree.com/png-clipart/20190705/original/pngtree-vector-java-icon-png-image_4195843.jpg"></code>

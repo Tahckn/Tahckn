@@ -7,4 +7,4 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="27" src="https://www.tutorsvalley.com/public/storage/uploads/course/1453979090-java-icon.png"></code>
 <code><img height="27" src="https://www.pngall.com/wp-content/uploads/5/Python-PNG.png"></code>
-<code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3p7GInT4vrTmgp-qdLz89zXP8moAz4shBQ&usqp=CAU"></code>
+<code><img height="25" src="https://img1.pnghut.com/0/14/6/WkUA40YbY1/computer-program-mysql-logo-database-microsoft-sql-server.jpg"></code>

@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Tahckn
-- 👀 I’m interested in everything.  
-- 📫 How to reach me taha-ceken@hotmail.com
-
-languages and tools:
-![image](https://user-images.githubusercontent.com/77683100/150551284-ff651838-d55e-4781-95b9-1a5e0faeaa7c.png)
+Hi, I'm Taha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://twitter.com/tahckn">
+  <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>

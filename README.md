@@ -10,6 +10,9 @@
 <p>
 hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
 </p>
+- 🌱 I’m currently learning **Java-Script**
+
+- 👯 I’m looking to collaborate on **front-end and back-end projects**
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />

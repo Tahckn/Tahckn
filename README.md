@@ -4,6 +4,7 @@
 </a>
 <a href="mailto:abhishek.naidu@cred.club">
   <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" />
+  <br>
 </a>
 <br>
 <p>

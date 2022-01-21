@@ -4,5 +4,5 @@
 </a>
 
 **languages and tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://www.shareicon.net/data/256x256/2015/06/26/59989_java_256x256.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="25" src="https://w7.pngwing.com/pngs/769/163/png-transparent-professional-java-programmer-software-development-software-developer-others-miscellaneous-text-logo-thumbnail.png"></code>

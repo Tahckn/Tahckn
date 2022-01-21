@@ -5,4 +5,4 @@
 
 **languages and tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://w7.pngwing.com/pngs/405/878/png-transparent-java-logo-java-runtime-environment-computer-icons-java-platform-standard-edition-java-miscellaneous-text-logo-thumbnail.png"></code>
+<code><img height="20" src="https://www.kindpng.com/picc/m/198-1984828_java-icon-transparent-hd-png-download.png"></code>

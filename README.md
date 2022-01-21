@@ -5,4 +5,4 @@
 
 **languages and tools:**
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="25" src="https://banner2.cleanpng.com/20180422/qjq/kisspng-java-platform-standard-edition-mobile-app-develop-java-5adca76dc9d810.9952459915244102218268.jpg"></code>
+<code><img height="25" src="https://www.tutorsvalley.com/public/storage/uploads/course/1453979090-java-icon.png"></code>

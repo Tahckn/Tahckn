@@ -19,11 +19,14 @@ hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ** languages and tools ** <br> <br>
-<code><img height="25" src="https://e7.pngegg.com/pngimages/328/221/png-clipart-c-programming-language-logo-microsoft-visual-studio-net-framework-javascript-icon-purple-logo.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="27" src="https://www.tutorsvalley.com/public/storage/uploads/course/1453979090-java-icon.png"></code>
-<code><img height="27" src="https://www.pngall.com/wp-content/uploads/5/Python-PNG.png"></code>
-<code><img height="25" src="https://img1.pnghut.com/0/14/6/WkUA40YbY1/computer-program-mysql-logo-database-microsoft-sql-server.jpg"></code>
-<code><img height="26" src="https://w7.pngwing.com/pngs/410/100/png-transparent-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-text-thumbnail.png"></code>
-<code><img height="25" src="https://w7.pngwing.com/pngs/66/60/png-transparent-web-development-cascading-style-sheets-css3-computer-icons-css-miscellaneous-blue-angle-thumbnail.png"></code>
-<code><img height="25" src="https://w7.pngwing.com/pngs/182/979/png-transparent-github-repository-commit-version-control-github-angle-rectangle-logo-thumbnail.png"></code>
+<code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/c%23.png?raw=true"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/Tahckn/Tahckn/e6ecd29134bfdad0587d14b87be2a8d823742915/img/icons8-css3.svg"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/Tahckn/Tahckn/e6ecd29134bfdad0587d14b87be2a8d823742915/img/icons8-git.svg"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/Tahckn/Tahckn/e6ecd29134bfdad0587d14b87be2a8d823742915/img/icons8-github.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/Tahckn/Tahckn/e6ecd29134bfdad0587d14b87be2a8d823742915/img/icons8-html-5.svg"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/Tahckn/Tahckn/e6ecd29134bfdad0587d14b87be2a8d823742915/img/icons8-javascript-logo.svg"></code>
+<code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/python.png?raw=true"></code>
+<code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/mysql.png?raw=true"></code>
+<code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/sql.png?raw=true"></code>
+<code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/visual-studio-code.png?raw=true"></code>
+

@@ -24,5 +24,6 @@ hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
 <code><img height="27" src="https://www.tutorsvalley.com/public/storage/uploads/course/1453979090-java-icon.png"></code>
 <code><img height="27" src="https://www.pngall.com/wp-content/uploads/5/Python-PNG.png"></code>
 <code><img height="25" src="https://img1.pnghut.com/0/14/6/WkUA40YbY1/computer-program-mysql-logo-database-microsoft-sql-server.jpg"></code>
-<code><img height="26" src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png"></code>
+<code><img height="26" src="https://w7.pngwing.com/pngs/410/100/png-transparent-web-development-html-responsive-web-design-logo-javascript-html-angle-web-design-text-thumbnail.png"></code>
 <code><img height="25" src="https://w7.pngwing.com/pngs/66/60/png-transparent-web-development-cascading-style-sheets-css3-computer-icons-css-miscellaneous-blue-angle-thumbnail.png"></code>
+<code><img height="25" src="https://w7.pngwing.com/pngs/182/979/png-transparent-github-repository-commit-version-control-github-angle-rectangle-logo-thumbnail.png"></code>

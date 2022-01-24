@@ -33,8 +33,11 @@ hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
 <code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/intellij-idea-icon-5%20(1).jpg?raw=true"></code>
 <hr>
 <p align="center">
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tahckn&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<a href="https://github.com/Tahckn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tahckn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tahckn&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 

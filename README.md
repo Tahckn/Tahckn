@@ -8,7 +8,7 @@
 </a>
 <img align="right" alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/code.gif?raw=true" width="360" height="260" />
 <p>
-hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
+hi, i'm Taha CEKEN, programmer and web developer from Turkey.
 </p>
 
 <ul>
@@ -41,6 +41,7 @@ hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
 <p align="center">
 <a href="https://github.com/Tahckn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tahckn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <br>
 <a href="mailto:tahaceken38@gmail.com">
   <img align="right" alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/contactme2.gif?raw=true" width="90" height="80" />
 </a>

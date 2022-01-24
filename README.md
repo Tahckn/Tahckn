@@ -6,7 +6,7 @@
   <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" />
   <br>
 </a>
-<img align="right" alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/code.gif?raw=true" width="340" height="250" />
+<img align="right" alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/code.gif?raw=true" width="360" height="260" />
 <p>
 hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
 </p>

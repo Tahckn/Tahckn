@@ -16,7 +16,7 @@ hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 <br>
 
-<img align="right" alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/code.gif?raw=true" width="330" height="220" />
+<img align="right" alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/code.gif?raw=true" width="330" height="280" />
 <hr>
 ** Languages and Tools ** <br> <br>
 <code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/c%23.png?raw=true"></code>

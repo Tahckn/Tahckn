@@ -31,4 +31,11 @@ hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
 <code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/android-studio.png?raw=true"></code>
 <code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/Eclipse-SVG.svg.png?raw=true"></code>
 <code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/intellij-idea-icon-5%20(1).jpg?raw=true"></code>
+<hr>
+<p align="center">
+  <p>Git Activeness</p>
+
+
+
+
 

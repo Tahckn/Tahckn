@@ -32,6 +32,8 @@ hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
 <code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/Eclipse-SVG.svg.png?raw=true"></code>
 <code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/intellij-idea-icon-5%20(1).jpg?raw=true"></code>
 <hr>
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
 <a href="https://github.com/Tahckn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tahckn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

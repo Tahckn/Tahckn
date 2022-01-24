@@ -10,10 +10,11 @@
 <p>
 hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
 </p>
-<ul>
-  <li>- 🌱 I’m currently learning **Java-Script**</li>
 
-  <li>- 👯 I’m looking to collaborate on **front-end and back-end projects**</li>
+<ul>
+  <li> 🌱 I’m currently learning **Java-Script**</li>
+
+  <li> 👯 I’m looking to collaborate on **front-end and back-end projects**</li>
 </ul>
   
   

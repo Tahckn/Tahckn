@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Taha <img height="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif"></h1>
+<h1 align="center">Hi , I'm Taha <img height="30" src="https://github.com/Tahckn/Tahckn/blob/main/img/wave-hello.gif?raw=true"></h1>
 <a href="https://twitter.com/tahckn">
   <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>

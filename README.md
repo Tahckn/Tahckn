@@ -2,7 +2,7 @@
 <a href="https://twitter.com/tahckn">
   <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="mailto:abhishek.naidu@cred.club">
+<a href="mailto:tahaceken38@gmail.com">
   <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" />
   <br>
 </a>
@@ -11,9 +11,9 @@
 hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
 </p>
 <p>
-- 🌱 I’m currently learning **Java-Script**
+  - 🌱 I’m currently learning **Java-Script**
 
-- 👯 I’m looking to collaborate on **front-end and back-end projects**
+  - 👯 I’m looking to collaborate on **front-end and back-end projects**
   </p>
 <br>
 

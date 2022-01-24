@@ -17,9 +17,7 @@ hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
 <br>
 
 <img align="right" alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/code.gif?raw=true" width="330" height="220" />
-<br>
-<img align="right" alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/code2.gif?raw=true" width="330" height="220" />
-
+<hr>
 ** Languages and Tools ** <br> <br>
 <code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/c%23.png?raw=true"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/Tahckn/Tahckn/e6ecd29134bfdad0587d14b87be2a8d823742915/img/icons8-css3.svg"></code>

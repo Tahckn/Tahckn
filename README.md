@@ -42,7 +42,7 @@ hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
 <a href="https://github.com/Tahckn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tahckn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <a href="mailto:tahaceken38@gmail.com">
-  <img align="right" alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/contactme.gif?raw=true" width="90" height="80" />
+  <img align="right" alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/contactme2.gif?raw=true" width="90" height="80" />
 </a>
 </p>
 

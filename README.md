@@ -10,13 +10,13 @@
 <p>
 hi, i'm Taha CEKEN, self-taught programmer and web developer from Turkey.
 </p>
-<p>
-  - 🌱 I’m currently learning **Java-Script**
+<ul>
+  <li>- 🌱 I’m currently learning **Java-Script**</li>
 
-  - 👯 I’m looking to collaborate on **front-end and back-end projects**
-  </p>
-<br>
-
+  <li>- 👯 I’m looking to collaborate on **front-end and back-end projects**</li>
+</ul>
+  
+  
 
 <hr>
 ** Languages and Tools ** <br> <br>

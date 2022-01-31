@@ -46,6 +46,9 @@ hi, i'm Taha CEKEN, programmer and web developer from Turkey.
   <img align="right" alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/contactme2.gif?raw=true" width="90" height="80" />
 </a>
 </p>
+  
+  <div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="taha-çeken-1ab6a0230" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/taha-%C3%A7eken-1ab6a0230?trk=profile-badge">Taha ÇEKEN</a></div>
+              
 
 
 

@@ -32,7 +32,7 @@ hi, i'm Taha CEKEN, full stack web developer from Turkey.
 <code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/visual-studio-code.png?raw=true"></code>
 <code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/intellij-idea-icon-5%20(1).jpg?raw=true"></code>
 <code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/Vue-JS-01.png?raw=true"></code>
-
+<code><img height="25" src="https://raw.githubusercontent.com/Tahckn/Tahckn/b5a76b4827b957cdf4eea26748a0d4785bea2161/img/mongodb-svgrepo-com.svg"></code>
   </div>
 <br>
 <hr>

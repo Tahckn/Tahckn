@@ -21,7 +21,7 @@ hi, i'm Taha CEKEN, full stack web developer from Turkey.
 
 <hr>
 
-<p align="center"** Languages and Tools ** <br> <br> </p>
+<p align="center"> ** Languages and Tools ** <br> <br> </p>
 <code><img height="25" src="https://raw.githubusercontent.com/Tahckn/Tahckn/e6ecd29134bfdad0587d14b87be2a8d823742915/img/icons8-css3.svg"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/Tahckn/Tahckn/e6ecd29134bfdad0587d14b87be2a8d823742915/img/icons8-git.svg"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/Tahckn/Tahckn/e6ecd29134bfdad0587d14b87be2a8d823742915/img/icons8-github.svg"></code>

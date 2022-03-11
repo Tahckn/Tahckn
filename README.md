@@ -8,7 +8,7 @@
 </a>
 <img align="right" alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/ezgif.com-gif-maker.gif?raw=true" width="450" height="260" />
 <p>
-hi, i'm Taha CEKEN, full stack web developer from Turkey.
+hi, i'm Taha CEKEN, full stack web developer from Turkiye.
 </p>
 
 <ul>

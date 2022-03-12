@@ -14,7 +14,7 @@ hi, i'm Taha CEKEN, full stack web developer from Turkiye.
 <ul>
   <li> 🌱 I’m currently learning **Java-Script - Vue.js **</li>
 
-  <li> 👯 I’m looking to collaborate on **front-end and back-end projects**</li>
+  <li> 👯 I’m looking to collaborate on **front-end projects**</li>
 </ul>
   
   

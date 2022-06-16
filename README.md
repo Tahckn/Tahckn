@@ -12,7 +12,7 @@ hi, i'm Taha CEKEN, full stack web developer from Turkiye.
 </p>
 
 <ul>
-  <li> 🌱 I’m currently learning **Java-Script - Vue.js **</li>
+  <li> 🌱 I’m currently working on **Vue.js**</li>
 
   <li> 👯 I’m looking to collaborate on **front-end projects**</li>
 </ul>

@@ -2,7 +2,7 @@
 <a href="https://twitter.com/tahckn">
   <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="mailto:tahaceken38@gmail.com">
+<a href="mailto:taha-ceken@hotmail.com">
   <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" />
   <br>
 </a>
@@ -42,9 +42,6 @@ hi, i'm Taha CEKEN, full stack web developer from Turkiye.
 <a href="https://github.com/Tahckn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tahckn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br>
-<a href="mailto:tahaceken38@gmail.com">
-  <img align="right" alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/contactme2.gif?raw=true" width="90" height="80" />
-</a>
 </p>
 
 

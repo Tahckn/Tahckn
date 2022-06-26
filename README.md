@@ -1,4 +1,6 @@
-<img align="center" height="30" src="https://raw.githubusercontent.com/Tahckn/Tahckn/main/img/welcome.gif">
+<div align="center">
+<img height="50" src="https://raw.githubusercontent.com/Tahckn/Tahckn/main/img/welcome.gif">
+  </div>
 <a href="https://twitter.com/tahckn">
   <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>

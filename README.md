@@ -6,7 +6,6 @@
   <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" />
   <br>
   <br>
-  <br>
 </a>
 <table align="right"><tr><td>
 <img alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/ezgif.com-gif-maker.gif?raw=true" width="420" height="236" />

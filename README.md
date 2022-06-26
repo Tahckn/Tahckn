@@ -40,13 +40,16 @@ hi, i'm Taha CEKEN, full stack web developer from Turkiye.
 <p>⚙️ &nbsp;GitHub Analytics</p>
 <br>
 
-<div style="display: flex; flex-direction: column;">
+<Table>
+  <tr>
+    <td
   <a href="https://github.com/Tahckn">
-  <img align=top height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tahckn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <br>
+  <img align=top height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tahckn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></td>
+  <td
     <a href="https://github.com/Tahckn">
-  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahckn&layout=compact&theme=algolia"/>
-</div>
+  <img align=top height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahckn&layout=compact&theme=algolia"/></td>
+  </tr>
+</Table>
 
  
 

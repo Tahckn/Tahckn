@@ -43,7 +43,7 @@ hi, i'm Taha CEKEN, full stack web developer from Turkiye.
 <p align="center">
 <a href="https://github.com/Tahckn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tahckn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tahckn&layout=compact)](https://github.com/Tahckn/github-readme-stats)
+  [(https://github-readme-stats.vercel.app/api/top-langs/?username=Tahckn&layout=compact)]
   <br>
 </p>
 

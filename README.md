@@ -41,11 +41,11 @@ hi, i'm Taha CEKEN, full stack web developer from Turkiye.
 <br>
 
 <Table>
-  <tr>
-    <td border:"none">
+  <tr border:"none">
+    <td>
   <a href="https://github.com/Tahckn">
   <img align=top height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tahckn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></td>
-  <td border:"none">
+  <td>
     <a href="https://github.com/Tahckn">
   <img align=top height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahckn&layout=compact&theme=algolia"/></td>
   </tr>

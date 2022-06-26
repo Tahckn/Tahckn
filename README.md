@@ -6,8 +6,8 @@
   <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" />
   <br>
 </a>
-<kbd>
-<img align="right" alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/ezgif.com-gif-maker.gif?raw=true" width="450" height="260" />
+<kbd align="right">
+<img alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/ezgif.com-gif-maker.gif?raw=true" width="450" height="260" />
   </kbd>
 <p>
 hi, i'm Taha CEKEN, full stack web developer from Turkiye.

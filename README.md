@@ -7,7 +7,7 @@
   <br>
 </a>
 <table align="right"><tr><td>
-<img alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/ezgif.com-gif-maker.gif?raw=true" width="450" height="260" />
+<img alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/ezgif.com-gif-maker.gif?raw=true" width="420" height="236" />
 </td></tr></table>
 <p>
 hi, i'm Taha CEKEN, full stack web developer from Turkiye.

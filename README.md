@@ -1,5 +1,5 @@
 <div align="center">
-<img width="width="150"" height="84" src="https://raw.githubusercontent.com/Tahckn/Tahckn/main/img/welcome.gif">
+<img width="width="150"" height="84" src="https://raw.githubusercontent.com/Tahckn/Tahckn/main/img/oPzEvcHr.gif">
   </div>
 <a href="https://twitter.com/tahckn">
   <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -13,7 +13,7 @@
 <img alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/ezgif.com-gif-maker.gif?raw=true" width="420" height="236" />
 </td></tr></table>
 <p>
-hi, i'm Taha CEKEN, full stack web developer from Turkiye.
+hi, I'm Taha CEKEN, full stack web developer from Turkiye.
 </p>
 
 <ul>

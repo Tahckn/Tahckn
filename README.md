@@ -12,13 +12,11 @@ hi, i'm Taha CEKEN, full stack web developer from Turkiye.
 </p>
 
 <ul>
-  <li> 🌱 I’m currently working on **Vue.js**</li>
+  <li> 🌱 I’m currently working on **Django**</li>
 
-  <li> 👯 I’m looking to collaborate on **front-end projects**</li>
+  <li> 👯 I’m looking to collaborate on **front-end and back-end projects**</li>
 </ul>
   
-  
-
 <hr>
 
 <p align="center"> ** Languages and Tools ** <br> <br> </p>

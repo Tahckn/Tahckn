@@ -44,9 +44,9 @@ hi, i'm Taha CEKEN, full stack web developer from Turkiye.
 <a href="https://github.com/Tahckn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tahckn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahckn&layout=compact"/>
 </p>
 
 
-
+ 
 

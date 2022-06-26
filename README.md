@@ -44,10 +44,10 @@ hi, i'm Taha CEKEN, full stack web developer from Turkiye.
   <tr style="padding: 0">
     <td>
   <a href="https://github.com/Tahckn">
-  <img align=top height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tahckn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title-color=ed31f2"/></td>
+  <img align=top height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tahckn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=ed31f2"/></td>
   <td>
     <a href="https://github.com/Tahckn">
-  <img align=top height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahckn&layout=compact&theme=algolia&title-color=ed31f2"/></td>
+  <img align=top height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahckn&layout=compact&theme=algolia&title_color=ed31f2"/></td>
   </tr>
 </Table>
 

@@ -18,7 +18,7 @@ hi, I'm Taha CEKEN, full stack web developer from Turkiye.
 </p>
 
 <ul>
-  <li> 🌱 I’m currently working on **Django**</li>
+  <li> 🌱 I’m currently working on **Next.js**</li>
 
   <li> 👯 I’m looking to collaborate on **front-end and back-end projects**</li>
 </ul>

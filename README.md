@@ -36,7 +36,7 @@ hi, I'm Taha CEKEN, full stack web developer from Turkiye.
 <code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/visual-studio-code.png?raw=true"></code>
 <code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/Vue-JS-01.png?raw=true"></code>
 <code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/pngwing.com.png?raw=true"></code>
-<code><img height="25" src="">https://raw.githubusercontent.com/Tahckn/Tahckn/main/img/nextjs-boilerplate-logo.png</code>
+<code><img height="25" src="https://raw.githubusercontent.com/Tahckn/Tahckn/main/img/nextjs-boilerplate-logo.png"></code>
  
   </div>
 <br>

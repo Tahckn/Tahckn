@@ -14,7 +14,7 @@
 <img alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/ezgif.com-gif-maker.gif?raw=true" width="420" height="236" />
 </td></tr></table>
 <p>
-hi, I'm Taha CEKEN, full stack web developer from Turkiye.
+hi, I'm Taha ÇEKEN, web developer from Türkiye.
 </p>
 
 <ul>

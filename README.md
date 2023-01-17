@@ -16,7 +16,7 @@ Hi, I'm Taha ÇEKEN, web developer from Türkiye.
 </p>
 
 <ul>
-  <li> 🌱 I’m currently working on **[Listify](https://listify-bf8d2.web.app/)**</li>
+  <li> 🌱 I’m currently working on ![Listify](https://listify-bf8d2.web.app/)</li>
 
   <li> 👯 I’m looking to collaborate on **front-end projects**</li>
 </ul>

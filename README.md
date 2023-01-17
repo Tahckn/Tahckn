@@ -1,5 +1,4 @@
 <div align="center">
-<img width="width="150"" height="84" src="https://raw.githubusercontent.com/Tahckn/Tahckn/main/img/ze56vmBl.gif">
   </div>
   <hr>
 <a href="https://twitter.com/tahckn">

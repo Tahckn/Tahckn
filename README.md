@@ -43,7 +43,7 @@ Hi, I'm Taha ÇEKEN, web developer from Türkiye.
   <tr style="padding: 0">
     <td>
   <a href="https://github.com/Tahckn">
-  <img align=top height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tahckn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=ed31f2"/></td>
+  <img align=top height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tahckn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=dd2ee5&text_color=fefefe"/></td>
   <td>
     <a href="https://github.com/Tahckn">
   <img align=top height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahckn&layout=compact&bg_color=050f2c&title_color=dd2ee5&text_color=fefefe"/></td>

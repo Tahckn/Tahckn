@@ -4,7 +4,7 @@
 </a>
  
  
-<a href="https://twitter.com/tahckn">
+<a href="https://www.linkedin.com/in/taha-ceken-1ab6a0230/">
   <img align="left" alt="Taha CEKEN | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Tahckn/Tahckn/ab96df0a20a4f7c88b311e931a89390a06ed9a06/img/107178_circle_linkedin_icon.svg" />
 </a>
 <a href="https://twitter.com/tahckn">

@@ -1,5 +1,5 @@
 
-![PORTFOLIO WEBSITE](https://tahckn.github.io/portfolio/){:target="_blank"}
+[PORTFOLIO WEBSITE](https://tahckn.github.io/portfolio/){:target="_blank"}
  
 <a href="https://twitter.com/tahckn">
   <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />

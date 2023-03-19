@@ -1,5 +1,5 @@
 
-<a align='center' href="https://twitter.com/tahckn">
+<a align='center' target="_blank" href="https://twitter.com/tahckn">
   <p>
     PORTFOLIO WEBSITE
 </p>

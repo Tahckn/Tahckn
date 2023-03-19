@@ -5,7 +5,7 @@
  
  
 <a href="https://twitter.com/tahckn">
-  <img align="left" alt="Taha CEKEN | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Tahckn/Tahckn/70b40b01e7f6d391a33e5b117ace07ff5c77bf4b/img/linkedin-round-icon.svg" />
+  <img align="left" alt="Taha CEKEN | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Tahckn/Tahckn/ab96df0a20a4f7c88b311e931a89390a06ed9a06/img/107178_circle_linkedin_icon.svg" />
 </a>
 <a href="https://twitter.com/tahckn">
   <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />

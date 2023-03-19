@@ -3,11 +3,15 @@
  <p align="center">PORTFOLIO WEBSITE</p>
 </a>
  
+ 
+<a href="https://twitter.com/tahckn">
+  <img align="left" alt="Taha CEKEN | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Tahckn/Tahckn/70b40b01e7f6d391a33e5b117ace07ff5c77bf4b/img/linkedin-round-icon.svg" />
+</a>
 <a href="https://twitter.com/tahckn">
   <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="mailto:taha-ceken@hotmail.com">
-  <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" />
+  <img align="left" alt="Taha CEKEN | Mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" />
   <br>
   <br>
 </a>

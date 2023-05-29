@@ -23,7 +23,7 @@ Hi, I'm Taha ÇEKEN, web developer from Türkiye.
 </p>
 
 <ul>
-  <li> 👯 I’m looking to collaborate on **front-end projects**</li>
+  <li> 👯 I’m looking to collaborate on Web Projects</li>
 </ul>
   
 <hr>

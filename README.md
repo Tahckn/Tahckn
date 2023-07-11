@@ -8,7 +8,7 @@
   <img align="left" alt="Taha CEKEN | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Tahckn/Tahckn/ab96df0a20a4f7c88b311e931a89390a06ed9a06/img/107178_circle_linkedin_icon.svg" />
 </a>
 <a href="https://twitter.com/tahckn">
-  <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" />
+  <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Twitter_Logo.png?20210909091158" />
 </a>
 <a href="mailto:taha-ceken@hotmail.com">
   <img align="left" alt="Taha CEKEN | Mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" />

@@ -1,61 +1,26 @@
+<h1 align="center">Hi 👋, I'm Taha Çeken</h1>
+<h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-<a target="_blank" href="https://tahckn.github.io/portfolio/" >
- <p align="center">PORTFOLIO WEBSITE</p>
-</a>
- 
- 
-<a href="https://www.linkedin.com/in/taha-ceken-1ab6a0230/">
-  <img align="left" alt="Taha CEKEN | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Tahckn/Tahckn/ab96df0a20a4f7c88b311e931a89390a06ed9a06/img/107178_circle_linkedin_icon.svg" />
-</a>
-<a href="https://twitter.com/tahckn">
-  <img align="left" alt="Taha CEKEN | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Twitter_Logo.png?20210909091158" />
-</a>
-<a href="mailto:taha-ceken@hotmail.com">
-  <img align="left" alt="Taha CEKEN | Mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Circle-icons-mail.svg/1200px-Circle-icons-mail.svg.png" />
-  <br>
-  <br>
-</a>
-<table align="right"><tr><td>
-<img alt="GIF" src="https://github.com/Tahckn/Tahckn/blob/main/img/ezgif.com-gif-maker.gif?raw=true" width="420" height="236" />
-</td></tr></table>
-<p>
-Hi, I'm Taha ÇEKEN, web developer from Türkiye.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahckn" alt="tahckn" /></a> </p>
+
+- 🔭 I’m currently working on [Spot Control](https://github.com/Tahckn/spot-control)
+
+- 🌱 I’m currently learning **Cypress**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/tahckn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tahckn" height="30" width="40" /></a>
+<a href="https://twitter.com/tahckn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tahckn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/taha-ceken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taha-ceken" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17323139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17323139" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/taha_ceken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="taha_ceken" height="30" width="40" /></a>
 </p>
 
-<ul>
-  <li> 👯 I’m looking to collaborate on Web Projects</li>
-</ul>
-  
-<hr>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<p align="center"> ** Languages and Tools ** <br> <br> </p>
-<div align="center">
-<code><img height="25" src="https://raw.githubusercontent.com/Tahckn/Tahckn/e6ecd29134bfdad0587d14b87be2a8d823742915/img/icons8-css3.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/Tahckn/Tahckn/e6ecd29134bfdad0587d14b87be2a8d823742915/img/icons8-html-5.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/Tahckn/Tahckn/e6ecd29134bfdad0587d14b87be2a8d823742915/img/icons8-javascript-logo.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/Tahckn/Tahckn/e6ecd29134bfdad0587d14b87be2a8d823742915/img/icons8-git.svg"></code>
-<code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png?raw=true"></code>
-<code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/visual-studio-code.png?raw=true"></code>
-<code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/Vue-JS-01.png?raw=true"></code>
-<code><img height="25" src="https://github.com/Tahckn/Tahckn/blob/main/img/pngwing.com.png?raw=true"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/Tahckn/Tahckn/main/img/Tailwind-img.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/Tahckn/Tahckn/main/img/nextjs-boilerplate-logo.png"></code>
-  </div>
-<br>
-<hr>
-<p>⚙️ &nbsp;GitHub Analytics</p>
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahckn&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="tahckn" /></p>
 
-<Table cellpadding="0">
-  <tr style="padding: 0">
-    <td>
-  <a href="https://github.com/Tahckn">
-  <img decoding="async" loading="lazy" align=top height="180em" src="https://github-readme-stats-six-jade.vercel.app/api?username=Tahckn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=dd2ee5&text_color=fefefe"/></td>
-  <td>
-    <a href="https://github.com/Tahckn">
-  <img decoding="async" loading="lazy" align=top height="180em" src="https://github-readme-stats-six-jade.vercel.app/api/top-langs/?username=Tahckn&layout=compact&bg_color=050f2c&title_color=dd2ee5&text_color=fefefe"/></td>
-  </tr>
-</Table>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahckn&show_icons=true&theme=synthwave&locale=en" alt="tahckn" /></p>
 
- 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahckn&theme=dark" alt="tahckn" /></p>

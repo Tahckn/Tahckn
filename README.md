@@ -36,6 +36,26 @@
 - Mentor developers, distribute ownership, remove technical blockers, and keep teams aligned.
 - Identify technical risk and debt early while balancing long-term architecture with product delivery.
 
+## Workflow orchestration & authorization
+
+- Design **durable, long-running workflows** with retries, timeouts, idempotency, compensation, observability, and failure recovery in mind.
+- Build workflow orchestration and automation solutions with **Temporal**, **Conductor OSS**, and **n8n**.
+- Design authorization models using **RBAC**, **ABAC**, and **ReBAC**, choosing the right approach for the domain instead of forcing a single model everywhere.
+- Work with centralized policy and permission systems such as **Permit.io**, **AWS Verified Permissions**, and **Cerbos**.
+- Model resources, actions, relationships, and contextual attributes while keeping permission checks consistent across frontend and backend boundaries.
+
+<p>
+  <img alt="Temporal" src="https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white" />
+  <img alt="Conductor OSS" src="https://img.shields.io/badge/Conductor_OSS-6C47FF?style=flat-square" />
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img alt="RBAC" src="https://img.shields.io/badge/RBAC-Role_Based-2563EB?style=flat-square" />
+  <img alt="ABAC" src="https://img.shields.io/badge/ABAC-Attribute_Based-0891B2?style=flat-square" />
+  <img alt="ReBAC" src="https://img.shields.io/badge/ReBAC-Relationship_Based-7C3AED?style=flat-square" />
+  <img alt="Permit.io" src="https://img.shields.io/badge/Permit.io-Policy_Engine-4F46E5?style=flat-square" />
+  <img alt="AWS Verified Permissions" src="https://img.shields.io/badge/AWS_Verified_Permissions-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img alt="Cerbos" src="https://img.shields.io/badge/Cerbos-Policy_Engine-5C4EE5?style=flat-square" />
+</p>
+
 ## Core stack
 
 ### Frontend

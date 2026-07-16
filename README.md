@@ -56,6 +56,22 @@
   <img alt="Cerbos" src="https://img.shields.io/badge/Cerbos-Policy_Engine-5C4EE5?style=flat-square" />
 </p>
 
+## AI-assisted engineering
+
+- Use **Claude Code** and **OpenAI Codex** as part of the engineering workflow for planning, implementation, debugging, refactoring, code review, testing, and documentation.
+- Design reusable **skills**, agentic **workflows**, and **scheduled automations** that reduce repetitive work and improve engineering throughput.
+- Apply prompt engineering through clear context, constraints, examples, task decomposition, and explicit verification criteria.
+- Build human-in-the-loop workflows where AI accelerates delivery while technical decisions and output quality remain reviewable.
+- Turn recurring engineering practices into repeatable AI-assisted processes instead of relying on one-off prompts.
+
+<p>
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI_Codex-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-4F46E5?style=flat-square" />
+  <img alt="Agentic Workflows" src="https://img.shields.io/badge/Agentic_Workflows-7C3AED?style=flat-square" />
+  <img alt="Skills and Automations" src="https://img.shields.io/badge/Skills_·_Workflows_·_Schedules-0891B2?style=flat-square" />
+</p>
+
 ## Core stack
 
 ### Frontend
@@ -84,6 +100,14 @@
   <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
 </p>
 
+### Quality, testing & observability
+
+<p>
+  <img alt="Sentry" src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
+  <img alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+</p>
+
 ### Cloud, architecture & delivery
 
 **AWS:** Amplify, API Gateway, S3, and managed cloud services · **Firebase:** Analytics and platform integrations
@@ -103,5 +127,5 @@
 ---
 
 <p align="center">
-  <em>Good engineering is not only about shipping code; it is about creating systems and teams that can keep shipping well.</em>
+  <em>Faber est suae quisque fortunae.</em>
 </p>

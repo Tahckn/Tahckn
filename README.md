@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Taha Çeken</h1>
 
-<h3 align="center">Tech Lead · Full-Stack Engineer</h3>
+<h3 align="center">Tech Lead · Full-Stack Developer</h3>
 
 <p align="center">
   I design scalable systems, build full-stack products, and help engineering teams turn complex requirements into reliable software.
